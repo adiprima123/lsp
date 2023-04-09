@@ -1,0 +1,25 @@
+body{
+    background: url();
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#home img{
+    height: 200px;
+    object-fit: cover;
+}
+#carouselHome .carousel-item img{
+    height: 70vh;
+    width: 10   0vh;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 40px;
+}
+
+.bg-navbar{
+    background: rgb(142,5,194);
+background: linear-gradient(24deg, rgba(142,5,194,1) 0%, rgba(10,37,88,1) 100%);
+}
